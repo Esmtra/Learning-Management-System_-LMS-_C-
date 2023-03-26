@@ -1,6 +1,11 @@
 # **Learning Management System (LMS) using C++**
 
 This is a Learning Management System (LMS) written in C++. It aims to manage students' academic records by allowing instructors to input and import students' personal information, GPA grades, and course statistics, and then perform various operations on the data such as calculating grades, normalizing grades, and generating reports.
+## **Flowchart**
+
+![Flowchart](https://github.com/Esmtra/Learning-Management-System_-LMS-_C-/blob/main/Flow%20Chart.jpg "Flowchart")
+
+
 
 ## **Table of Contents**
 
